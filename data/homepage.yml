@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Rohan Poojari."
   subtitle: "Mechanical Engineer"
-  description: "I am a stdent at <a target='_blank' href='http://www.clemson.edu/'>Clemson University</a>, pursuing my Masters in Mechanical Engineering. Keep cool, stay in touch."
+  description: "I am a student at <a target='_blank' href='http://www.clemson.edu/'>Clemson University</a>, pursuing my Masters in Mechanical Engineering. Keep cool, stay in touch."
   image:
     x: "img/showcase/showcase.jpg"
     _2x: "img/showcase/showcase@2x.jpg"
