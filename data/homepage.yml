@@ -1,0 +1,234 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Rohan Poojari."
+  subtitle: "Mechanical Engineer"
+  description: "I am a stdent at <a target='_blank' href='http://www.clemson.edu/'>Clemson University</a>, pursuing my Masters in Mechanical Engineering. Keep cool, stay in touch."
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:rohanrpoojari7@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/rohan-poojari"
+
+    # - icon: "github"
+    #   URL: "https://github.com/radity"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/RoRogers1?s=09"
+
+    # - icon: "dribbble"
+    #   URL: "https://dribbble.com/radity"
+
+    # - icon: "behance"
+    #   URL: "https://www.behance.net/radity-digital"
+
+    # - icon: "youtube"
+    #   URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+
+    - icon: "instagram"
+      URL: "https://instagram.com/rohan__poojari?igshid=f34dx8ykrzin"
+
+    # - icon: "facebook"
+    #   URL: "https://www.facebook.com/raditycom/"
+
+    # - icon: "codepen"
+    #   URL: "#"
+
+    # - icon: "yelp"
+    #   URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '<p class="lead">
+    I am Rohan Poojari, a student from the mechanical department with a passion for using my skills to create a positive impact on the environment. Be the change you want to see! :)
+    </p>
+    <p class="lead">
+    My area of focus lies in designing and manufacturing. I enjoy designing and am familiar with a lot of design tools like SolidWorks, AutoCAD.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://twitter.com/RoRogers1?s=09"
+  image:
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# about
+skills:
+  enable: true
+  title: "Skills"
+  content: '<p class="lead">
+   Programs: SolidWorks, Autodesk Inventor, Autodesk Fusion 360, ANSYS, AutoCAD, Pro-E, CNC Lathe Software.
+    </p>
+    <p class="lead">
+  Tools: Lathe Machine, Drilling Machine, Milling Machine, CNC, welding, soldering.
+    </p>
+    <p class="lead">
+  Interpersonal-Skills: Good at teamwork and collaboration, leadership, relationship building and conflict resolution.
+    </p>
+    <p class="lead">
+  Communication: Excellent speaking and writing skills, active listening and a great command over language
+    </p>'
+  
+  image:
+    x: "img/who-am-i/a.jpg"
+    _2x: "img/who-am-i/ae@2x.jpg"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Clemson University"
+      year: "2020-2022"
+      degree: "Masters of Science (M.S), Mechanical Engineering"
+
+    - university: "Dwarkadas J. Sanghvi College of Engineering, Mumbai"
+      year: "2016-2020"
+      degree: "Bachelor of Engineering (B.E), Mechanical Engineering"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I love spending my vacations to practically implement what I learnt at the University."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/rohan-poojari"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://drive.google.com/open?id=1qkLGMIrO_llUEx8q0qo0AIHIdWvFi81r"
+
+  items:
+    - title: "Lubrication Testing Assistant"
+      company: "Magnacool Lubricants, Pune"
+      duration: "December 2017, June 2018, June 2019"
+
+    - title: "Manufacturing and Operations Intern"
+      company: "Dynamix Chains Mfg. Pvt. Ltd., Mumbai"
+      duration: "December 2016"
+
+    # - title: "Jr. Front-End Developer"
+    #   company: "Cyberse"
+    #   duration: "Jun 2009 - Mar 2010"
+# education
+curriculars:
+  enable: true
+  title: "Extra Curriculars"
+  items:
+    - university: "The Maharashtra Summit"
+      year: "2020"
+      degree: "Events head for the maiden event of The Maharashtra Summit"
+
+    - university: "DJ NSS"
+      year: "2017-2019"
+      degree: "Successfully completed 240 hours of community service in the following roles: Events Head from August 2018 to August 2019 and
+      Editorial Executive: August 2017 – August 2018"
+
+    - university: "DJ LIT"
+      year: "2017-2019"
+      degree: "Secretary: August 2018 – August 2019, Events Executive: August 2017 – August 2018, Host: The DJ LIT JAM 2019, The DJ LIT Quiz 2018"
+
+    - university: "DJ Thunderbolt"
+      year: "2016-2017"
+      degree: "Executive: Brakes Design Department: August 2016 – January 2017"
+
+
+      # Client & Work
+client_and_work:
+  title: "My Projects"
+  enable: true
+  works:
+    - title: "Modified beach cleaning machine"
+      description: "An amphibious vehicle capable of collecting trash from the shores as well as the shallow waters at the beach. It can also double up as a machine that can be used to rake in trash from the surface lakes and dams."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpeg"
+        _2x: "img/works/radity-finance@2x.jpeg"
+      is_even: true
+
+    - title: "Pulley Design and Installation"
+      description: "Developed a CAD model for the pulleys to be installed at wells at the adopted village of the social service committee (NSS). Completed material procurement, fabrication and installation of the pulleys with the help of committee members."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View Project"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpeg"
+        _2x: "img/works/swissfintech@2x.jpeg"
+      is_even: false
+
+    # - title: "Robo Advisor"
+    #   description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    #   button:
+    #     icon: "icon-arrow-right"
+    #     btnText: "Case Study"
+    #     URL: "#"
+    #   image:
+    #     x: "img/works/robo-advisor.jpg"
+    #     _2x: "img/works/robo-advisor@2x.jpg"
+    #   is_even: true
+
+# experience
+publications:
+  enable: true
+  title: "Publications and Presentation"
+  description: "I am fascinated by research. Here are a few of my publications."
+
+
+  items:
+    - title: "Topology optimization of Wheel hub used in automobiles"
+      company: "Accepted for presentation at ICIMA 2020."
+      duration: "Published by Springer"
+
+# education
+publications:
+  enable: true
+  title: "Publications and Presentations"
+  items:
+    - university: "Topology optimization of Wheel hub used in automobiles"
+      year: "Published by Springer"
+      degree: "Accepted for presentation at ICIMA 2020"
+
+   
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+(91) 8169010874"
+  email:
+    title: "Email"
+    email: '<a href="mailto:rohanrpoojari7@gmail.com">rohanrpoojari7@gmail.com</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

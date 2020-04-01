@@ -1,0 +1,123 @@
+
+
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+theme = "raditian-free-hugo-theme"
+title = "Rohan Poojari"
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.header]]
+  name = "Education"
+  URL = "#education"
+  weight = 3
+
+  [[menu.header]]
+  name = "Skills"
+  URL = "#skills"
+  weight = 4
+
+  [[menu.header]]
+  name = "Curriculars"
+  URL = "#curriculars"
+  weight = 5
+
+  [[menu.header]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 6
+
+  [[menu.header]]
+  name = "Publications"
+  URL = "#publications"
+  weight = 7
+
+  [[menu.header]]
+  name = "Projects"
+  URL = "#projects"
+  weight = 8
+
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 9
+
+
+  
+  [[menu.footer]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Education"
+  URL = "#education"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Skills"
+  URL = "#skills"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Curriculars"
+  URL = "#curriculars"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 6
+
+  [[menu.footer]]
+  name = "Publications"
+  URL = "#publications"
+  weight = 7
+
+  [[menu.footer]]
+  name = "Projects"
+  URL = "#projects"
+  weight = 8
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 9
+
+
+[params]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Rohan"
+    text2 = "Poojari"
+
+  [params.footer]
+      copyright = "© Rohan Poojari. All rights reserved."
+    
