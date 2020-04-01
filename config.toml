@@ -69,46 +69,7 @@ title = "Rohan Poojari"
 
 
   
-  [[menu.footer]]
-  name = "About"
-  URL = "#about"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Education"
-  URL = "#education"
-  weight = 3
-
-  [[menu.footer]]
-  name = "Skills"
-  URL = "#skills"
-  weight = 4
-
-  [[menu.footer]]
-  name = "Curriculars"
-  URL = "#curriculars"
-  weight = 5
-
-  [[menu.footer]]
-  name = "Experience"
-  URL = "#experience"
-  weight = 6
-
-  [[menu.footer]]
-  name = "Publications"
-  URL = "#publications"
-  weight = 7
-
-  [[menu.footer]]
-  name = "Projects"
-  URL = "#projects"
-  weight = 8
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 9
-
+ 
 
 [params]
 
