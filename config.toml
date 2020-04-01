@@ -54,7 +54,7 @@ title = "Rohan Poojari"
 
   [[menu.header]]
   name = "Publications"
-  URL = "#publications"
+  URL = "#publication"
   weight = 7
 
   [[menu.header]]
