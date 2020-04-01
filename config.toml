@@ -113,7 +113,8 @@ title = "Rohan Poojari"
 [params]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
-
+  author="Rohan Poojari"
+  description="Hey there! I am Rohan and I am a Mechanical Engineer"
   [params.logo]
     text1 = "Rohan"
     text2 = "Poojari"
