@@ -5,10 +5,10 @@ showcase:
   subtitle: "Mechanical Engineer"
   description: "I am a student at <a target='_blank' href='http://www.clemson.edu/'>Clemson University</a>, pursuing my Masters in Mechanical Engineering. Keep cool, stay in touch."
   image:
-    x: "img/showcase/showcase.jpg"
-    _2x: "img/showcase/showcase@2x.jpg"
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/showcase-mobile.png"
 
   button:
     icon: "icon-mail-fill"
