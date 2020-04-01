@@ -83,7 +83,7 @@ skills:
   
   image:
     x: "img/who-am-i/a.jpg"
-    _2x: "img/who-am-i/ae@2x.jpg"
+    _2x: "img/who-am-i/a@2x.jpg"
 
 # education
 education:
