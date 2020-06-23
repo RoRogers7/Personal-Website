@@ -49,7 +49,7 @@ showcase:
 # about
 about:
   enable: true
-  title: "About Me"
+  title: "About"
   content: '<p class="lead">
     I am Rohan Poojari, a student from the mechanical department with a passion for using my skills to create a positive impact on the environment. Be the change you want to see! :)
     </p>
