@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Rohan Poojari."
   subtitle: "Mechanical Engineer"
-  description: "I am a student at <a target='_blank' href='http://www.clemson.edu/'>Clemson University</a>, pursuing my Masters in Mechanical Engineering. Keep cool, stay in touch."
+  description: "I am a B.E graduate from <a target='_blank' href='http://www.djsce.ac.in/'>D.J. Sanghvi</a> with a specialisation in Mechanical Engineering. Keep cool, stay in touch."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -49,7 +49,7 @@ showcase:
 # about
 about:
   enable: true
-  title: "Who am I?"
+  title: "About Me"
   content: '<p class="lead">
     I am Rohan Poojari, a student from the mechanical department with a passion for using my skills to create a positive impact on the environment. Be the change you want to see! :)
     </p>
@@ -80,6 +80,7 @@ skills:
     <p class="lead">
   Communication: Excellent speaking and writing skills, active listening and a great command over language
     </p>'
+   
   
   image:
     x: "img/who-am-i/a.jpg"
@@ -90,10 +91,6 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "Clemson University"
-      year: "2020-2022"
-      degree: "Masters of Science (M.S), Mechanical Engineering"
-
     - university: "Dwarkadas J. Sanghvi College of Engineering, Mumbai"
       year: "2016-2020"
       degree: "Bachelor of Engineering (B.E), Mechanical Engineering"
@@ -113,7 +110,7 @@ experience:
     URL: "https://drive.google.com/open?id=1qkLGMIrO_llUEx8q0qo0AIHIdWvFi81r"
 
   items:
-    - title: "Lubrication Testing Assistant"
+    - title: Research Assistant"
       company: "Magnacool Lubricants, Pune"
       duration: "December 2017, June 2018, June 2019"
 
@@ -217,7 +214,7 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+(91) 8169010874"
+    number: "+(91) 9619531176"
   email:
     title: "Email"
     email: '<a href="mailto:rohanrpoojari7@gmail.com">rohanrpoojari7@gmail.com</a>'
