@@ -229,3 +229,34 @@ newsletter:
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
   note: "We'll never share your email with anyone else."
+
+
+blog:
+  title: "Blogs and Pages"
+  enable: true
+  works:
+    - title: "The Unreported Hub"
+      description: " A project to provide facts over opinions and cover improtant stories ignored by the mainstream media ✍️."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Visit Blog"
+        URL: "https://unreportedhub.wixsite.com/urhb"
+      button1:
+        icon: "icon-arrow-right" 
+        btnText: "Visit Page"
+        URL: "http://www.instagram.com/unreported.hub"
+      image:
+        x: "img/works/unreported.png"
+        _2x: "img/works/unreported.png"
+      is_even: true
+
+    - title: "Redditales"
+      description: "Positive, entertaining and wholesome content from the front page of the internet ♥️."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Visit Page"
+        URL: "http://www.instagram.com/redditales"
+      image:
+        x: "img/works/redditales.jpg"
+        _2x: "img/works/redditales.jpg"
+      is_even: false
